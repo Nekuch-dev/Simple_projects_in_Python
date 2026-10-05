@@ -12,7 +12,7 @@ The main idea is to turn what I learn into practice by building simple programs 
 * Experiment with different solutions to simple problems;
 * Track my progress and development in Python.
 
-## 🧠 What I'm Practicing
+## What I'm Practicing
 
 ```text
 Python
@@ -35,6 +35,6 @@ As I learn new concepts, more projects will be added to this repository.
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=00FF88)
 
-## 🚀 In Progress
+## In Progress
 
 This is a **learning reposito**
